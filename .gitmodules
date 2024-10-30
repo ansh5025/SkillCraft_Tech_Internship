@@ -7,3 +7,6 @@
 [submodule "SCT_WD_3_Tic_Tac_Toe"]
 	path = SCT_WD_3_Tic_Tac_Toe
 	url = https://github.com/ansh5025/SCT_WD_3.git
+[submodule "SCT_WD_4_ToDo"]
+	path = SCT_WD_4_ToDo
+	url = https://github.com/ansh5025/SCT_WD_4.git
